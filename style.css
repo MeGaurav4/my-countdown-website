@@ -5,13 +5,12 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background-image: url("hbd.jpg");
+    background-position: center;
     background-repeat: no-repeat;
+    background-size: cover; 
 }
 
 .countdown-container {
-    background-image: url("hbd.jpg");
-    background-repeat: no repeat;
     text-align: center;
 }
 
