@@ -9,6 +9,7 @@ body {
 }
 
 .countdown-container {
+    background-image: url("hbd.jpg");
     text-align: center;
 }
 
