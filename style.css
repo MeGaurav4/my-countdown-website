@@ -1,20 +1,22 @@
 body {
-    font-family: 'Arial', sans-serif;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    margin: 0;
-    background-image: url("hbd.jpg");
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url("hbd.jpg");
+  background-position: center; /* Center the background image */
 }
 
 .countdown-container {
-    background-image: url("hbd.jpg");
-    text-align: center;
+  text-align: center;
+  padding: 20px; /* Add padding around the timer */
 }
 
 #countdown {
-    font-size: 2em;
-    margin-top: 20px;
-    margin: 0 auto;
+  font-size: 50px; /* Set a fixed font size */
+  width: 500px; /* Set a fixed width */
+  height: 100px; /* Set a fixed height */
+  margin: 0 auto; /* Center the timer horizontally */
 }
