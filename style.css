@@ -6,10 +6,12 @@ body {
     height: 100vh;
     margin: 0;
     background-image: url("hbd.jpg");
+    background-repeat: no repeat;
 }
 
 .countdown-container {
     background-image: url("hbd.jpg");
+    background-repeat: no repeat;
     text-align: center;
 }
 
